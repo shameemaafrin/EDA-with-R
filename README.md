@@ -1,4 +1,5 @@
-##Data Exploration with R
+#Data Exploration with R
+
 Introduction
 This document presents the findings from the data exploration conducted on tornado activity using the 'tordata' DataFrame. The analysis focuses on identifying patterns in tornado occurrences and their magnitudes across different months and states.
 
