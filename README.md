@@ -1,11 +1,11 @@
 ## Data Exploration with R
 
-Introduction
+### Introduction
 This document presents the findings from the data exploration conducted on tornado activity using the 'tordata' DataFrame. The analysis focuses on identifying patterns in tornado occurrences and their magnitudes across different months and states.
 
-Data Overview
+### Data Overview
 str(tordata): This command was used to display the structure of the data, helping in understanding the types of data stored in each column.
-Visualizations and Insights
+### Visualizations and Insights
 Histogram of Tornadoes by Month
 
 The histogram indicates that tornado occurrences peak in May, followed closely by June, highlighting a concentration of tornado activities in the middle of the year.
@@ -24,6 +24,6 @@ A comparative analysis shows Texas and Alabama experiencing higher fatalities an
 Trend Analysis Over Years
 
 The exploration suggests an increasing trend in tornado occurrences over the years, necessitating enhanced monitoring and preparedness.
-Conclusion
+###Conclusion
 Both R and Python proved to be effective tools for this analysis. Personally, I found Python to be more user-friendly and conducive to learning new aspects of data exploration, making it my preferred tool for this kind of analysis.
 
